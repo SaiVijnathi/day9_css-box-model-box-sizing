@@ -1,0 +1,80 @@
+*{
+    box-sizing: border-box;
+    text-align: center;
+}
+
+img{
+    width:275px;
+    height: 275px;
+    border-radius: 50px;
+    box-shadow: 15px 15px 15px grey;
+}
+
+#pic1{
+    border: 8px solid red;
+}
+
+#pic2{
+    border: 8px dashed rgb(45, 172, 223);
+}
+
+#pic3{
+    border: 8px dotted rgb(6, 64, 102);
+}
+
+#pic4{
+    border: 8px groove orange;
+}
+
+#pic5{
+    border: 8px double yellow;
+}
+
+#pic6{
+    border: 8px ridge purple;
+}
+
+#pic7{
+    border: 8px inset palevioletred;
+}
+
+#pic8{
+    border: 8px outset rgb(0, 162, 255);
+}
+
+#intro{
+    text-align: justify;
+}
+
+.picDesc{
+    display: inline-block;
+    width: 900px;
+    text-align: justify;
+    margin-left: 30px;
+    background-color:rgb(240, 194, 213);
+    border-radius: 25px;
+    padding: 10px;
+    margin-top: 0;
+    margin-bottom: 0;
+}
+
+body{
+    background-color: rgb(205, 239, 255);
+    border: 10px solid skyblue;
+    margin: 0;
+    padding: 10px;
+}
+
+h1{
+    color: white;
+    font-size: 3rem;
+    background-color: rgb(174, 119, 226);
+    border: 8px solid rgb(49, 2, 92);
+    border-radius: 40px;
+}
+
+h2{
+    color: rgb(138, 9, 73);
+    font-size: 2.1rem;
+    margin-bottom: 0;
+}
